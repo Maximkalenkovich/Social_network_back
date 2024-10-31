@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "articleId": 1,
+    "content": "This is a great article!",
+    "author": "user123",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "likes": 5
+  },
+  {
+    "id": 2,
+    "articleId": 1,
+    "content": "Thanks for sharing!",
+    "author": "user456",
+    "createdAt": "2023-01-02T00:00:00Z",
+    "likes": 2
+  }
+]
